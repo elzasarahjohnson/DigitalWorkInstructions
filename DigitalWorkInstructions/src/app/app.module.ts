@@ -12,13 +12,13 @@ import { ReactiveFormsModule } from '@angular/forms';
 import { LoginComponent } from './login/login.component';
 import { MatIconModule } from '@angular/material/icon';
 
-@NgModule({
-   exports: [
-    AppComponent,
-    LoginComponent
-   ],
-})
-export class MaterialModule {}
+// @NgModule({
+//    exports: [
+//     // AppComponent,
+//     // LoginComponent
+//    ],
+// })
+// export class MaterialModule {}
 
 
 @NgModule({
